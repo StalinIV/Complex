@@ -1,0 +1,7 @@
+# ninja log v5
+1	319	7269977423758460	scr/libunti_tests_lib.a	539bdef54f16c34f
+25	1569	7269977436289090	tst/CMakeFiles/unti_tests_tst.dir/main.cpp.obj	e25e167fd833e12b
+18	1938	7269977439961258	tst/CMakeFiles/unti_tests_tst.dir/ComplexTests.cpp.obj	8d4b4794bd8e383a
+32	12596	7269977546355497	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	acfa40d59a26d361
+12598	16858	7269977589165565	lib/libgtest.a	7a95dfd2c2eda7a9
+16858	21363	7269977634063047	tst/unti_tests_tst.exe	aa28224f5668826
